@@ -84,4 +84,4 @@ Screenshots:
 
 Video de Demonstração:
 
-[![Watch the video](https://img.youtube.com/vi/2Ep6ASILU1Q/maxresdefault.jpg)](https://youtu.be/2Ep6ASILU1Q)
+[![Galaxian - Earh Defenders](https://img.youtube.com/vi/2Ep6ASILU1Q/0.jpg)](https://youtu.be/2Ep6ASILU1Q)
