@@ -80,6 +80,6 @@ Recursos Implementados:
 
 Screenshots:
 
-![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/StartScreen.pngraw=true=80x20 ) ![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Asteroid.png?raw=true=100x20) 
+![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/StartScreen.png?raw=true=80x20 ) ![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Asteroid.png?raw=true=100x20) 
 
 	
