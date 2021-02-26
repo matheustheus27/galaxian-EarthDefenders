@@ -82,4 +82,6 @@ Screenshots:
 
 ![Tela Inicial](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/StartScreen.png?raw=true) ![Tela de Créditos](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Credits.png?raw=true) ![Tela de Comandos](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/ControlsScreen.png?raw=true) ![Tela de Pausa](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/PauseScreen.png?raw=true) ![Jogo com Inimigos Comuns](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/GameScreen.png?raw=true) ![Jogo com um Chefão](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/GameScreenBoss.png?raw=true) ![Jogo com o Asteroide](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Asteroid.png?raw=true) ![Tela de Game Over](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/GameOverScreen.png?raw=true)
 
+<img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/StartScreen.png" alt="Tela Inicial" width="200"/>
+
 	
