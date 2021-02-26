@@ -1,4 +1,5 @@
-#Projeto de TP1 para Computação Gráfica - Galaxian
+##Projeto de TP1 para Computação Gráfica - Galaxian
+
 	Docente: Glender Brás
 	Discentes: Filipe Bicalho, Maria Eduarda, Matheus Thiago e Thiago Freitas
 
@@ -16,13 +17,14 @@ linhas de compilação e Execução:
 		./galaxian
 
 	---- MakeFile ----
-		make install-libraries  - Instalar as bibliotecas utilizadas
+		make install-libraries  		- Instalar as bibliotecas utilizadas
 		make all				- Compilar o projeto
 		make run				- Executar o projeto já compilado
 		make clean				- Remove o arquivo compilado
 
 
 Recursos Implementados:
+
 	Pausar - Pressione "P" para pausar o jogo
 	Reiniciar - Pressione "R" para reiniciar o jogo
 	Voltar/Sair - Pressione "ESC" para voltar/sair do Jogo
