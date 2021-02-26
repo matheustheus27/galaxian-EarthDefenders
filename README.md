@@ -82,4 +82,6 @@ Screenshots:
 
 <img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/StartScreen.png" alt="Tela Inicial" width="200"/> <img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Credits.png" alt="Tela de Créditos" width="200"/> <img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/ControlsScreen.png" alt="Tela de Comandos" width="200"/> <img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/PauseScreen.png" alt="Tela de Pausa" width="200"/> <img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/GameScreen.png" alt="Jogo com Inimigos Comuns" width="200"/> <img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/GameScreenBoss.png" alt="Jogo com um Chefão" width="200"/> <img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Asteroid.png" alt="Jogo com o Asteroide" width="200"/> <img src="https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/GameOverScreen.png" alt="Tela de Game Over" width="200"/>
 
-	
+Video de Demonstração:
+
+[![Watch the video](https://img.youtube.com/vi/2Ep6ASILU1Q/maxresdefault.jpg)](https://youtu.be/2Ep6ASILU1Q)
