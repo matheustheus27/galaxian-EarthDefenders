@@ -75,6 +75,7 @@ Recursos Implementados:
 	- Os asteroides são gerados aleatoriamente (após a onda 50), a posição onde aparece também é aleatório
 	- Dificuldade progressiva a cada nova onda gerada
 Screenshots:
+
 	![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Asteroid.png?raw=true)
 
 	*Notas: Todas as Sprites e Sons utilizados neste projeto foram feitos pelo grupo de discentes
