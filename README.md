@@ -1,14 +1,16 @@
-Projeto de TP1 para Computação Gráfica - Galaxian
+#Projeto de TP1 para Computação Gráfica - Galaxian
 	Docente: Glender Brás
 	Discentes: Filipe Bicalho, Maria Eduarda, Matheus Thiago e Thiago Freitas
 
 
 Bibliotecas Utilizadas:
+
 	SDL, SDL_image, SDL_mixer: sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev 
 	SOIL: sudo apt-get install libsoil-dev
 
 
 linhas de compilação e Execução:
+
 	---- Manual ----
 		gcc galaxian.c -o galaxian -lGL -lSOIL -lSDL -lSDLmain -lSDL_image -lSDL_mixer -lm
 		./galaxian
