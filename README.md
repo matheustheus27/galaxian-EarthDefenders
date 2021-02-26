@@ -74,6 +74,8 @@ Recursos Implementados:
 	- A posição e o tipo de Powerup é gerado aleatoriamente
 	- Os asteroides são gerados aleatoriamente (após a onda 50), a posição onde aparece também é aleatório
 	- Dificuldade progressiva a cada nova onda gerada
+Screenshots:
+	![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Asteroid.png?raw=true)
 
 	*Notas: Todas as Sprites e Sons utilizados neste projeto foram feitos pelo grupo de discentes
 			A aparência do jogo foi toda pensada e trabalhada para se assemelhar a um jogo retrô
