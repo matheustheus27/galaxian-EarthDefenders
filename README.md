@@ -1,4 +1,4 @@
-Projeto de TP1 para Computação Gráfica - Galaxian
+#Projeto de TP1 para Computação Gráfica - Galaxian
 
 	Docente: Glender Brás
 	Discentes: Filipe Bicalho, Maria Eduarda, Matheus Thiago e Thiago Freitas
