@@ -76,7 +76,7 @@ Recursos Implementados:
 	- Dificuldade progressiva a cada nova onda gerada
 Screenshots:
 
-![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/StartScreen.png?raw=true =100x20) ![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Asteroid.png?raw=true =100x20) 
+![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/StartScreen.png=100x20?raw=true ) ![alt Asteroid](https://github.com/matheustheus27/galaxian-EarthDefenders/blob/master/Screenshots/Asteroid.png=100x20?raw=true) 
 
 	*Notas: Todas as Sprites e Sons utilizados neste projeto foram feitos pelo grupo de discentes
 			A aparência do jogo foi toda pensada e trabalhada para se assemelhar a um jogo retrô
